@@ -2,6 +2,8 @@
 
 Hi my name is Madelaine and I am 35 years old, living in Leeds, UK.
 
+https://images.unsplash.com/photo-1601758003839-512c0f4159e5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80
+
 You can use the [editor on GitHub](https://github.com/Xavianna/jekyll-demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
